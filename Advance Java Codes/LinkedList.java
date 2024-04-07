@@ -6,6 +6,7 @@ public class LinkedList {
 		// TODO Auto-generated method stub
 		Queue queue = new Queue();
 		Scanner input = new Scanner(System.in);
+		System.out.println("Please enter the operation you would like to input: end,print,remove,element, or add");
 		String operations = input.nextLine();
 		
 		
